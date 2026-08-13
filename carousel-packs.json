@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "id": "test",
+      "title": "TEST — временный пак",
+      "count": 3,
+      "size_mb": 0.3,
+      "updated": "2026-08-13",
+      "url": "https://github.com/696Studio/levelx-tools/releases/download/carousel-bg-test/testpack.zip"
+    }
+  ]
+}
