@@ -1,12 +1,13 @@
 {
   "packs": [
     {
-      "id": "test",
-      "title": "TEST — временный пак",
-      "count": 3,
-      "size_mb": 0.3,
+      "id": "levelx-v1",
+      "title": "Фоны LEVEL X — пак v1",
+      "count": 100,
+      "size_mb": 31,
       "updated": "2026-08-13",
-      "url": "https://github.com/696Studio/levelx-tools/releases/download/carousel-bg-test/testpack.zip"
+      "auto": true,
+      "url": "https://github.com/696Studio/levelx-tools/releases/download/carousel-bg-levelx-v1/levelx-backgrounds-v1.zip"
     }
   ]
 }
